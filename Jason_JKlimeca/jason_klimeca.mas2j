@@ -1,0 +1,26 @@
+MAS jason_klimeca {
+
+	infrastructure: Centralised
+    environment: AgentEnv
+
+    agents:
+    	car1;
+        //car2;
+        //car3;
+        //car4;
+        //car5;
+        //car6;
+        //car7;
+        //car8;
+        //car9;
+        //car10;
+
+	//uzlades stacijas:
+		charger1;
+		charger2;
+	//pasta stacijas:
+		post1;
+		post2;
+
+
+}
